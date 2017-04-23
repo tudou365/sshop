@@ -1,0 +1,31 @@
+{
+  "name": "sshop",
+  "description": "这是一个基于NODEJS的微商城项目",
+  "main": "index.js",
+  "authors": [
+    "mDou"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sshop",
+    "node",
+    "express",
+    "gulp",
+    "bower"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-route": "^1.6.4",
+    "bootstrap": "^3.3.7"
+  }
+}

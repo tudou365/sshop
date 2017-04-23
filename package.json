@@ -1,0 +1,29 @@
+{
+  "name": "sshop",
+  "version": "1.0.0",
+  "description": "这是一个基于NODEJS的微商城项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tudou365/sshop.git"
+  },
+  "keywords": [
+    "sshop",
+    "node",
+    "express",
+    "gulp",
+    "bower"
+  ],
+  "author": "mDou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tudou365/sshop/issues"
+  },
+  "homepage": "https://github.com/tudou365/sshop#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
