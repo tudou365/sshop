@@ -1,0 +1,32 @@
+ 1669  mkdir sshop
+ 1670  cd sshop/
+ 1671  npm init
+ 1672  pwd
+ 1673  mkdir -p app/public/lib
+ 1674  tree app/
+ 1675  treereg app/
+ 1676  ls app/
+ 1677  ls app/public
+ 1678  ls
+ 1679  touch .bowerrc
+ 1680  ls
+ 1681  nrm ls
+ 1682  npm install -g bower
+ 1683  source ~/.zshrc
+ 1684  bower init
+ 1685  bower install bootstrap
+ 1686  ls
+ 1687  bower install angular angular-route --save
+ 1688  bower install bootstrap --save
+ 1689  npm install exprexx --save
+ 1690  npm install express --save
+ 1691  pwd
+ 1692  git init
+ 1693  git config
+ 1694  git config --global
+ 1695  git config --list
+ 1696  git add .
+ 1697  git remote add origin git@github.com:tudou365/sshop.git
+ 1698  git push -u origin master
+ 1699  git commit -m "sshop init"
+ 1700  git push -u origin master
